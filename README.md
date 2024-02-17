@@ -9,5 +9,5 @@
 
 С открытым исходным кодом, предоставляемым на GitHub, разработчики могут также учиться и вносить свой вклад в улучшение этого приложения, делая его еще более функциональным и удобным для использования всеми.
 
- <img src=https://github.com/OneVan4/Windows-artifacts-removing-app/assets/113106342/02bd8f9a-1084-4b13-a12a-c03c8ea05c66
- width="1080" height="360" style="margin-right: 20px;">
+ <img src=https://github.com/OneVan4/Windows-artifacts-removing-app/assets/113106342/ff4a2fe5-18e7-4e94-b776-2ae1b69872c0
+width="1336" height="433" style="margin-right: 20px;">
